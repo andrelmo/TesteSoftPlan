@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "rS52MOlTucaZZiP5URX+Kv0Tjrussra5yhUJ3MevvJGYykRrjr05dieWYIZz+1jozxXIfp3izDfchZ48dcD1dg==",
+  "success": true,
+  "projectFilePath": "C:\\Teste\\SoftPlan\\SistemaFinanceiro\\SistemaFinanceiro.Service\\SistemaFinanceiro.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.0\\microsoft.extensions.configuration.3.1.0.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.0\\microsoft.extensions.configuration.abstractions.3.1.0.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.0\\microsoft.extensions.configuration.binder.3.1.0.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.0\\microsoft.extensions.primitives.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

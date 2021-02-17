@@ -1,0 +1,9 @@
+C:\Teste\SoftPlan\SistemaFinanceiro\SistemaFinanceiro.Dto\bin\Debug\netcoreapp3.1\SistemaFinanceiro.Dto.deps.json
+C:\Teste\SoftPlan\SistemaFinanceiro\SistemaFinanceiro.Dto\bin\Debug\netcoreapp3.1\SistemaFinanceiro.Dto.dll
+C:\Teste\SoftPlan\SistemaFinanceiro\SistemaFinanceiro.Dto\bin\Debug\netcoreapp3.1\SistemaFinanceiro.Dto.pdb
+C:\Teste\SoftPlan\SistemaFinanceiro\SistemaFinanceiro.Dto\obj\Debug\netcoreapp3.1\SistemaFinanceiro.Dto.csprojAssemblyReference.cache
+C:\Teste\SoftPlan\SistemaFinanceiro\SistemaFinanceiro.Dto\obj\Debug\netcoreapp3.1\SistemaFinanceiro.Dto.AssemblyInfoInputs.cache
+C:\Teste\SoftPlan\SistemaFinanceiro\SistemaFinanceiro.Dto\obj\Debug\netcoreapp3.1\SistemaFinanceiro.Dto.AssemblyInfo.cs
+C:\Teste\SoftPlan\SistemaFinanceiro\SistemaFinanceiro.Dto\obj\Debug\netcoreapp3.1\SistemaFinanceiro.Dto.csproj.CoreCompileInputs.cache
+C:\Teste\SoftPlan\SistemaFinanceiro\SistemaFinanceiro.Dto\obj\Debug\netcoreapp3.1\SistemaFinanceiro.Dto.dll
+C:\Teste\SoftPlan\SistemaFinanceiro\SistemaFinanceiro.Dto\obj\Debug\netcoreapp3.1\SistemaFinanceiro.Dto.pdb

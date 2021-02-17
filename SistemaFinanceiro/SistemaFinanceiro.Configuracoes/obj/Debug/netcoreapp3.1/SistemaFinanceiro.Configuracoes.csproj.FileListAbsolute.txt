@@ -1,0 +1,9 @@
+C:\Teste\SoftPlan\SistemaFinanceiro\SistemaFinanceiro.Configuracoes\bin\Debug\netcoreapp3.1\SistemaFinanceiro.Configuracoes.deps.json
+C:\Teste\SoftPlan\SistemaFinanceiro\SistemaFinanceiro.Configuracoes\bin\Debug\netcoreapp3.1\SistemaFinanceiro.Configuracoes.dll
+C:\Teste\SoftPlan\SistemaFinanceiro\SistemaFinanceiro.Configuracoes\bin\Debug\netcoreapp3.1\SistemaFinanceiro.Configuracoes.pdb
+C:\Teste\SoftPlan\SistemaFinanceiro\SistemaFinanceiro.Configuracoes\obj\Debug\netcoreapp3.1\SistemaFinanceiro.Configuracoes.csprojAssemblyReference.cache
+C:\Teste\SoftPlan\SistemaFinanceiro\SistemaFinanceiro.Configuracoes\obj\Debug\netcoreapp3.1\SistemaFinanceiro.Configuracoes.AssemblyInfoInputs.cache
+C:\Teste\SoftPlan\SistemaFinanceiro\SistemaFinanceiro.Configuracoes\obj\Debug\netcoreapp3.1\SistemaFinanceiro.Configuracoes.AssemblyInfo.cs
+C:\Teste\SoftPlan\SistemaFinanceiro\SistemaFinanceiro.Configuracoes\obj\Debug\netcoreapp3.1\SistemaFinanceiro.Configuracoes.csproj.CoreCompileInputs.cache
+C:\Teste\SoftPlan\SistemaFinanceiro\SistemaFinanceiro.Configuracoes\obj\Debug\netcoreapp3.1\SistemaFinanceiro.Configuracoes.dll
+C:\Teste\SoftPlan\SistemaFinanceiro\SistemaFinanceiro.Configuracoes\obj\Debug\netcoreapp3.1\SistemaFinanceiro.Configuracoes.pdb

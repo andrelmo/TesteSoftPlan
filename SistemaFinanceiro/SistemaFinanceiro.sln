@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SistemaFinanceiro.Api", "SistemaFinanceiro.Api\SistemaFinanceiro.Api.csproj", "{E03913B1-ED16-467C-B6B6-1527FC79CADE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SistemaFinanceiro.Configuracoes", "SistemaFinanceiro.Configuracoes\SistemaFinanceiro.Configuracoes.csproj", "{56CB6351-8E31-4452-8316-56C564838C5F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SistemaFinanceiro.Domain", "SistemaFinanceiro.Domain\SistemaFinanceiro.Domain.csproj", "{386CE96A-0847-441F-8D86-43801D2BD6F5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SistemaFinanceiro.Service", "SistemaFinanceiro.Service\SistemaFinanceiro.Service.csproj", "{4AD47C97-F354-44EE-BA99-F659A91AB04E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaFinanceiro.Api.Application.Test", "SistemaFinanceiro.Api.Application.Test\SistemaFinanceiro.Api.Application.Test.csproj", "{FF62E3D2-CD0C-4938-B8E4-37E90E1DFAB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaFinanceiro.Api.Service.Test", "SistemaFinanceiro.Api.Service.Test\SistemaFinanceiro.Api.Service.Test.csproj", "{E1021B62-C1E6-487B-9AB7-7AB8E12A9708}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaFinanceiro.Api.Integration.Test", "SistemaFinanceiro.Api.Integration.Test\SistemaFinanceiro.Api.Integration.Test.csproj", "{563662C7-84B6-42EA-9E4A-9F7DC6ED75A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E03913B1-ED16-467C-B6B6-1527FC79CADE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E03913B1-ED16-467C-B6B6-1527FC79CADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E03913B1-ED16-467C-B6B6-1527FC79CADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E03913B1-ED16-467C-B6B6-1527FC79CADE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56CB6351-8E31-4452-8316-56C564838C5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56CB6351-8E31-4452-8316-56C564838C5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56CB6351-8E31-4452-8316-56C564838C5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56CB6351-8E31-4452-8316-56C564838C5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{386CE96A-0847-441F-8D86-43801D2BD6F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{386CE96A-0847-441F-8D86-43801D2BD6F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{386CE96A-0847-441F-8D86-43801D2BD6F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{386CE96A-0847-441F-8D86-43801D2BD6F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AD47C97-F354-44EE-BA99-F659A91AB04E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AD47C97-F354-44EE-BA99-F659A91AB04E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AD47C97-F354-44EE-BA99-F659A91AB04E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AD47C97-F354-44EE-BA99-F659A91AB04E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF62E3D2-CD0C-4938-B8E4-37E90E1DFAB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF62E3D2-CD0C-4938-B8E4-37E90E1DFAB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF62E3D2-CD0C-4938-B8E4-37E90E1DFAB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF62E3D2-CD0C-4938-B8E4-37E90E1DFAB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1021B62-C1E6-487B-9AB7-7AB8E12A9708}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1021B62-C1E6-487B-9AB7-7AB8E12A9708}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1021B62-C1E6-487B-9AB7-7AB8E12A9708}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1021B62-C1E6-487B-9AB7-7AB8E12A9708}.Release|Any CPU.Build.0 = Release|Any CPU
+		{563662C7-84B6-42EA-9E4A-9F7DC6ED75A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{563662C7-84B6-42EA-9E4A-9F7DC6ED75A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{563662C7-84B6-42EA-9E4A-9F7DC6ED75A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{563662C7-84B6-42EA-9E4A-9F7DC6ED75A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AD9413A-1436-4B3E-BF24-40B5D58947EA}
+	EndGlobalSection
+EndGlobal
